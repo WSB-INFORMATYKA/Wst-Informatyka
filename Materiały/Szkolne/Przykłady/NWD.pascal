@@ -1,4 +1,4 @@
-program NWD_a_b;
+program NWD;
 type tab=array[1..10] of integer;
      lst = record 
                 elementy: tab;
